@@ -25,3 +25,10 @@ EDA questions aimed to reveal customer behaviour, subscription popularity, and c
 - How does the cancellation rate vary by subscription type?
 - Which regions have the highest and lowest number of cancellations?
 - What percentage of total revenue is contributed by each subscription type?
+
+### Data Analysis
+```SQL
+SELECT top 5 subscriptionType,COUNT(CustomerID) AS TOTAL_CUSTOMER
+from[dbo].[LITA Customer Data]
+GROUP BY SubscriptionType
+```
