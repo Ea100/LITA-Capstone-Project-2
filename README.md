@@ -47,3 +47,7 @@ SELECT top 5 subscriptionType,COUNT(CustomerID) AS TOTAL_CUSTOMER
 from[dbo].[LITA Customer Data]
 GROUP BY SubscriptionType
 ```
+
+### Data Visualization
+
+
