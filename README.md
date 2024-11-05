@@ -48,6 +48,15 @@ from[dbo].[LITA Customer Data]
 GROUP BY SubscriptionType
 ```
 
-### Data Visualization
+### Data Visualizations
+
+
+### Results/Findings
+The analysis results are summarized as follows
+
+### Recommendations
+Based on the analysis carried out, we recommend the following:
+
+### Limitations
 
 
