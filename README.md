@@ -15,4 +15,5 @@ Customer data for this project was also sourced from the "LITA Capstone Dataset.
   2. For Analysis
   3. For Data Visualization
   - SQL – Structured Query Language for querying of Data
+  - PowerBI - Used for creating an interactive dashboard to visualize key insights
   - GitHub for Portfolio Building
