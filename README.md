@@ -3,6 +3,16 @@ The project analyzed customer data from a subscription service to understand sub
 
 ### Project Title: Customer Segmentation for a Subscription Service
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
 ### Project Overview
 ---
 This project aimed to analyze customer data from a subscription service to understand subscription patterns, customer segments, and retention trends. Excel was initially used for pivot table analysis to examine subscription types, average durations, and regional distributions. SQL queries further identified customer behaviour insights, such as popular subscription types, cancellation trends, and revenue by segment. The final Power BI dashboard presents a comprehensive view of customer segments, highlighting opportunities to improve retention and optimize subscription offerings.
