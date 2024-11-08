@@ -38,7 +38,6 @@ EDA questions aimed to reveal customer behaviour, subscription popularity, and c
 - What is the average subscription duration across all customers?
 - How does the cancellation rate vary by subscription type?
 - Which regions have the highest and lowest number of cancellations?
-- What percentage of total revenue is contributed by each subscription type?
 
 ### Data Analysis
 ---
@@ -57,7 +56,14 @@ GROUP BY SubscriptionType
 ### Results/Findings
 ---
 The analysis results are summarized as follows:
-- 
+- The Basic subscription is the most popular, with 37,500 customers, followed by Premium and Standard, each with 18,750 customers
+- Basic subscriptions generate the highest revenue at approximately $74.8 million, followed by Premium with $37.6 million, and Standard with $37.5 million.
+- For the "Churn Rate Analysis by Region", the East and South regions have the highest number of cancellations, with 11,250 each while the North and West regions have the lowest number of cancellations, with 7,500 each.
+- Based on the "Cancellations by Subscription Type":
+  1. Basic: Out of 37,500 customers, 11,250 canceled (approximately 30% churn rate).
+  2. Premium: Out of 18,750 customers, 11,250 canceled (approximately 60% churn rate).
+  3. Standard: Out of 18,750 customers, 11,250 canceled (also approximately 60% churn rate).
+
 
 ### Recommendations
 ---
