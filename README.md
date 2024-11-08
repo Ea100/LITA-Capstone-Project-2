@@ -49,16 +49,20 @@ GROUP BY SubscriptionType
 ```
 
 ### Data Visualizations
+---
 ![SQL CustomerData 1](https://github.com/user-attachments/assets/ccb48c42-60e3-47cc-a6d9-0fc746b48d20)
 ![SQL CustomerData 2](https://github.com/user-attachments/assets/33660d25-19ea-48b6-ba90-d3bd8c51aa5c)
 
 
 ### Results/Findings
+---
 The analysis results are summarized as follows
 
 ### Recommendations
+---
 Based on the analysis carried out, we recommend the following:
 
 ### Limitations
+---
 
 
