@@ -56,7 +56,8 @@ GROUP BY SubscriptionType
 
 ### Results/Findings
 ---
-The analysis results are summarized as follows
+The analysis results are summarized as follows:
+- 
 
 ### Recommendations
 ---
@@ -64,5 +65,6 @@ Based on the analysis carried out, we recommend the following:
 
 ### Limitations
 ---
+- The data does not provide insights into specific customer preferences or reasons for cancellations
 
 
