@@ -52,6 +52,7 @@ GROUP BY SubscriptionType
 ![SQL CustomerData 1](https://github.com/user-attachments/assets/ccb48c42-60e3-47cc-a6d9-0fc746b48d20)
 ![SQL CustomerData 2](https://github.com/user-attachments/assets/33660d25-19ea-48b6-ba90-d3bd8c51aa5c)
 ![Subscription Performance Dashboard (Excel)](https://github.com/user-attachments/assets/8af7d036-87a2-4bea-abed-669f008a8664)
+![CustomerData BI Dashboard](https://github.com/user-attachments/assets/789ce9de-e9d4-420b-8b6a-75f26e681da5)
 
 
 ### Results/Findings
