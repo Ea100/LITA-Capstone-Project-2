@@ -66,13 +66,6 @@ The analysis results are summarized as follows:
   2. Premium: Out of 18,750 customers, 11,250 canceled (approximately 60% churn rate).
   3. Standard: Out of 18,750 customers, 11,250 canceled (also approximately 60% churn rate).
 
-
-### Recommendations
----
-Based on the analysis carried out, we recommend the following:
-
 ### Limitations
 ---
 - The data does not provide insights into specific customer preferences or reasons for cancellations
-
-
